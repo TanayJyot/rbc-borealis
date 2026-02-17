@@ -34,7 +34,7 @@ Scoring: Each factor rated 1-5. Weighted composite determines rank.
 
 **Deep dive:** `02-idea-indigenous-water-quality.md`
 
-[//]: # Is this something that NEEDS ML to be predicted or is it something that can be just figured out otherwise anyways purely by the dataset, the other thing would also be the scale of the problem that we are trying to solve if it is relevant
+> Is this something that NEEDS ML to be predicted or is it something that can be just figured out otherwise anyways purely by the dataset, the other thing would also be the scale of the problem that we are trying to solve if it is relevant
 ---
 
 ## 2. Mapping and Predicting Food Deserts in Canadian Cities
@@ -54,7 +54,7 @@ Scoring: Each factor rated 1-5. Weighted composite determines rank.
 
 **Deep dive:** `03-idea-food-desert-accessibility.md`
 
-[//]: # same question of do we have enough emergence of food deserts for something like this to be useful?
+> same question of do we have enough emergence of food deserts for something like this to be useful?
 
 ---
 
@@ -75,7 +75,7 @@ Scoring: Each factor rated 1-5. Weighted composite determines rank.
 
 **Deep dive:** `04-idea-opioid-overdose-prediction.md`
 
-[//]: # Highly dependent on having the relevant dataset
+> Highly dependent on having the relevant dataset
 ---
 
 ## 4. Predicting Wildfire Smoke Health Impact on Communities
@@ -95,7 +95,7 @@ Scoring: Each factor rated 1-5. Weighted composite determines rank.
 
 **Deep dive:** `05-idea-wildfire-smoke-health.md`
 
-[//]: How would you obtain an anonymised dataset to be able to train a supervised model on that has features about PM 2.5 Exposure and ER visits? What we can possibly do is look at 
+> How would you obtain an anonymised dataset to be able to train a supervised model on that has features about PM 2.5 Exposure and ER visits? What we can possibly do is look at 
 
 ---
 
@@ -116,7 +116,7 @@ Scoring: Each factor rated 1-5. Weighted composite determines rank.
 
 **Deep dive:** `06-idea-housing-affordability.md`
 
-[//]: This sounds kinda cool in terms of how you would predict price changes in different areas of the city based on factors. Pricing Trends data can we used as true label here and we can try mapping other factors to it
+> This sounds kinda cool in terms of how you would predict price changes in different areas of the city based on factors. Pricing Trends data can we used as true label here and we can try mapping other factors to it
 
 
 ---
@@ -138,7 +138,7 @@ Scoring: Each factor rated 1-5. Weighted composite determines rank.
 
 **Deep dive:** `07-idea-transit-accessibility-seniors.md`
 
-Is this a problem in Canada as a whole? Are there any surveys that indicate how much people do use public transport in old age and how accessible they are to them, what would be the use case for the model in the future
+> Is this a problem in Canada as a whole? Are there any surveys that indicate how much people do use public transport in old age and how accessible they are to them, what would be the use case for the model in the future
 
 ---
 
